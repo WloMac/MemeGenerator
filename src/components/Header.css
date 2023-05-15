@@ -1,0 +1,33 @@
+body{
+    box-sizing: border-box;
+}
+
+
+.header{
+    display: flex;
+    align-items: center;
+    background-color: violet;
+    color: white;
+    
+}
+
+.header--image{
+        height: 6rem;
+        padding: 10px;
+    
+
+}
+
+.project--name{
+margin-right: auto;
+font-size: 2rem;
+font-family: cursive;
+
+}
+
+.project--description{
+    margin-left: auto;
+    font-size: 1.2;
+    font-family: cursive;
+}
+
